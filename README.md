@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - My tip calculator
 
 Project-1 is a tip calculator application for iOS.
 
